@@ -1,5 +1,5 @@
-- Portuguese:
-## Objetivo:
+## Portuguese:
+# Objetivo:
 
 Criar classes genericas que represente um herói de uma aventura e que possua as seguintes propriedades:
 
@@ -30,8 +30,8 @@ Ao final deve se exibir uma mensagem:
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- English:
-## Objective:
+## English:
+# Objective:
 
 Create generic classes that represent a hero in an adventure and that possess the following properties:
 
